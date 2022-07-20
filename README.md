@@ -1,6 +1,6 @@
 Oi, sejam bem-vindos! 👋
 
-- 🔭 Me preparando para iniciar o estágio
+- 🔭 Analista de suporte técnico
 - 🌱 Estudante front-end
 
 <div align="center">
