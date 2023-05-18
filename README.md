@@ -1,7 +1,7 @@
 Oi, sejam bem-vindos! 👋
 
 - 🔭 Analista de suporte técnico
-- 🌱 Estudante front-end
+- 🌱 Estudante de analise de dados e front-end
 
 <div align="center">
   <a href="https://github.com/JonathandsCabral">
