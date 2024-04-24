@@ -1,7 +1,7 @@
 Oi, sejam bem-vindos! 👋
 
-- 🔭 Analista de suporte técnico
-- 🌱 Estudante de analise de dados e front-end
+- 🔭 Asistente de infraestrutura e suporte de TI.
+- 🌱 Estudo sobre Dados, Cloud e DevOps.
 
 <div align="center">
   <a href="https://github.com/JonathandsCabral">
